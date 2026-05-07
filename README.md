@@ -18,6 +18,7 @@
 
 ## 📖 Contents
 - [Books](#books)
+- [Videos](#videos)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -27,6 +28,8 @@
 * [Python Programming for Beginners: The Complete Guide to Mastering Python in 7 Days with Hands-On Exercises](https://www.amazon.com/Python-Programming-Beginners-Mastering-Hands/dp/B0BTRRLCYZ)
 * [Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702)
 * [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-3rd/dp/1718503407)
+
+## Videos
 
 ##
 
